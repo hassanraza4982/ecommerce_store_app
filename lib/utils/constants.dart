@@ -1,0 +1,1 @@
+var baseEcommerceUrl = 'https://dummyjson.com';
